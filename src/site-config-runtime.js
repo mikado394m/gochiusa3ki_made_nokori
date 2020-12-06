@@ -5,56 +5,50 @@ import siteConfig from './site-config.json'
 export default {
 	...siteConfig,
 	episodes: [
-		'1羽 「にっこりカフェの魔法使い」',
-		'2羽 「幼馴染ハート強奪事件」',
-		'3羽 「世界のすべては私の経験値」',
-		'4羽 「あったかもしれない日常」',
-		'5羽 「彼女は熱き旋風 彼女は気ままなそよ風」',
-		'6羽 「うさぎの団体さんも大歓迎です」',
-		'7羽 「今夜は幽霊とだって踊り明かせる Halloween Night!」',
-		'8羽 「スタンプ スリープ スタディ スマイル」',
-		'9羽 「やきもち風味のカモミール」',
-		'10羽 「ハートがいっぱいの救援要請」',
-		'11羽',
-		'12羽',
+		'1話 「スピードアップ」',
+		'2話 「」',
+		'3話 「」',
+		'4話 「」',
+		'5話 「」',
+		'6話 「」',
+		'7話 「」',
+		'8話 「」',
+		'9話 「」',
+		'10話 「」',
+		'11話 「」',
+		'12話 「」',
 	],
 	channels: new Map([
-		['atx', {
-			name: 'AT-X',
-			time: new Map([
-				[1, moment('2020-10-10T21:30:00')]
-			])
-		}],
 		['tokyomx', {
 			name: 'TOKYO MX',
 			time: new Map([
-				[1, moment('2020-10-10T22:00:00')]
+				[1, moment('2021-01-07T22:00:00')]
 			])
 		}],
-		['bs11', {
-			name: 'BS11',
+		['bsfuji', {
+			name: 'BSフジ',
 			time: new Map([
-				[1, moment('2020-10-10T22:00:00')]
-			])
-		}],
-		['abema', {
-			name: 'ABEMA',
-			time: new Map([
-				[1, moment('2020-10-10T22:00:00')]
+				[1, moment('2021-01-08T01:05:00')]
 			])
 		}],
 		['suntv', {
 			name: 'サンテレビ',
 			time: new Map([
-				[1, moment('2020-10-10T22:30:00')]
+				[1, moment('2021-01-09T00:30:00')]
 			])
 		}],
-		['kbskyoto', {
-			name: 'KBS京都',
+		['uhb', {
+			name: '北海道文化放送',
 			time: new Map([
-				[1, moment('2020-10-10T23:00:00')]
+				[1, moment('2021-01-10T23:00:00')]
+			])
+		}],
+		['atx', {
+			name: 'AT-X',
+			time: new Map([
+				[1, moment('2021-01-11T22:30:00')]
 			])
 		}],
 	]),
-	defaultChannelId: 'atx'
+	defaultChannelId: 'tokyomx'
 }
