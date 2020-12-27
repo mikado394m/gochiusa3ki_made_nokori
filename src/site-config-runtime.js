@@ -6,8 +6,8 @@ export default {
 	...siteConfig,
 	episodes: [
 		'1話 「スピードアップ」',
-		'2話 「」',
-		'3話 「」',
+		'2話 「Final Opinion」',
+		'3話 「Do！It！Happy大冒険！」',
 		'4話 「」',
 		'5話 「」',
 		'6話 「」',
