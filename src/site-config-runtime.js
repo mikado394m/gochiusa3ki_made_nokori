@@ -8,7 +8,7 @@ export default {
 		'1話 「スピードアップ」',
 		'2話 「Final Opinion」',
 		'3話 「Do！It！Happy大冒険！」',
-		'4話 「」',
+		'4話 「オレ達は深紅色のI'mJOKERで(中略)OBENT MAGNUM」',
 		'5話 「」',
 		'6話 「」',
 		'7話 「」',
