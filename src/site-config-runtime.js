@@ -10,7 +10,7 @@ export default {
 		'track-03 「Do！It！Happy大冒険！」',
 		'track-04 「オレ達は深紅色のI’mJOKERで(中略)OBENTO MAGNUM」',
 		'track-05 「きゅきゅきゅん♥ハートシェイカーなain’t nobody STOP」',
-		'track-06 「」',
+		'track-06 「乙女陽炎」',
 		'track-07 「」',
 		'track-08 「」',
 		'track-09 「」',
