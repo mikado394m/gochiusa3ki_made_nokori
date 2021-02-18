@@ -12,7 +12,7 @@ export default {
 		'track-05 「きゅきゅきゅん♥ハートシェイカーなain’t nobody STOP」',
 		'track-06 「乙女陽炎」',
 		'track-07 「パステージ」',
-		'track-08 「」',
+		'track-08 「ランナーズハイ!!」',
 		'track-09 「」',
 		'track-10 「」',
 		'track-11 「」',
