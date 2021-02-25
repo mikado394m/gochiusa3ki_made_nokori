@@ -13,7 +13,7 @@ export default {
 		'track-06 「乙女陽炎」',
 		'track-07 「パステージ」',
 		'track-08 「ランナーズハイ!!」',
-		'track-09 「」',
+		'track-09 「EMPIRE DOMINATOR」',
 		'track-10 「」',
 		'track-11 「」',
 		'track-12 「」',
