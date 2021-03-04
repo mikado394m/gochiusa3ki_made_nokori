@@ -14,7 +14,7 @@ export default {
 		'track-07 「パステージ」',
 		'track-08 「ランナーズハイ!!」',
 		'track-09 「EMPIRE DOMINATOR」',
-		'track-10 「」',
+		'track-10 「キミはボクのプリンセス☆」',
 		'track-11 「」',
 		'track-12 「」',
 	],
