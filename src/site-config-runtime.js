@@ -15,7 +15,7 @@ export default {
 		'track-08 「ランナーズハイ!!」',
 		'track-09 「EMPIRE DOMINATOR」',
 		'track-10 「キミはボクのプリンセス☆」',
-		'track-11 「」',
+		'track-11 「星空ライトストーリー」',
 		'track-12 「」',
 	],
 	channels: new Map([
