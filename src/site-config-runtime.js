@@ -16,7 +16,7 @@ export default {
 		'track-09 「EMPIRE DOMINATOR」',
 		'track-10 「キミはボクのプリンセス☆」',
 		'track-11 「星空ライトストーリー」',
-		'track-12 「」',
+		'track-12 「アノカナタリウム」',
 	],
 	channels: new Map([
 		['tokyomx', {
